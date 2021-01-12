@@ -1,1 +1,2 @@
 trying out git bash
+so now i am writing this to modify this file to make a second commit :)
